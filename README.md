@@ -1,4 +1,4 @@
-#Convolutional Neural-Network Based Plant Disease Detection
+Convolutional Neural-Network Based Plant Disease Detection
 
 
 Technique Used:
