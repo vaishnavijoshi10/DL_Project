@@ -1,3 +1,6 @@
+#Convolutional Neural-Network Based Plant Disease Detection
+
+
 Technique Used:
 CNN Architecture:
 The first step in our methodology is to design a suitable CNN architecture for detecting
